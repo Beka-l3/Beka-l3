@@ -4,6 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/ezpzbaby01" target="blank"><img src="https://img.shields.io/twitter/follow/ezpzbaby01?logo=twitter&style=for-the-badge" alt="ezpzbaby01" /></a> </p>
 
+<p align="left"> <a href="https://www.instagram.com/ezpzbaby/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ezpzbaby-orange?style=for-the-badge&logo=instagram" alt="ezpzbaby" /></a> </p>
+
+<p align="left"> <a href="https://www.artstation.com/ezpzbaby" target="_blank"><img src="https://img.shields.io/badge/Artstation-ezpzbaby-blue?style=for-the-badge&logo=artstation" alt="ezpzbaby" /></a> </p>
+
+<p align="left"> <a href="https://unsplash.com/@ezpzbaby" target="_blank"><img src="https://img.shields.io/badge/Unsplash-ezpzbaby-green?style=for-the-badge&logo=unsplash" alt="ezpzbaby" /></a> </p>
+
 <!-- - 🔭 I’m currently working on [a project](aproject.com) -->
 
 - 🌱 I’m currently learning **SwiftUI**
@@ -16,7 +22,7 @@
 
 <!-- - 📝 I regularly write articles on [nowhere.com](nowhere.com) -->
 
-<!-- - 💬 Ask me about **UIKit** -->
+- 💬 Ask me about **UIKit** **XCode**
 
 - 📫 How to reach me **bekzhantalgat01@gmail.com**
 
