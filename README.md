@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+<!-- 
 <p align="left"> <a href="https://twitter.com/ezpzbaby01" target="blank"><img src="https://img.shields.io/twitter/follow/ezpzbaby01?logo=twitter&style=for-the-badge" alt="ezpzbaby01" /></a> </p>
 
 <p align="left"> <a href="https://www.instagram.com/ezpzbaby/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ezpzbaby-orange?style=for-the-badge&logo=instagram" alt="ezpzbaby" /></a> </p>
@@ -9,6 +10,7 @@
 <p align="left"> <a href="https://www.artstation.com/ezpzbaby" target="_blank"><img src="https://img.shields.io/badge/Artstation-ezpzbaby-blue?style=for-the-badge&logo=artstation" alt="ezpzbaby" /></a> </p>
 
 <p align="left"> <a href="https://unsplash.com/@ezpzbaby" target="_blank"><img src="https://img.shields.io/badge/Unsplash-ezpzbaby-green?style=for-the-badge&logo=unsplash" alt="ezpzbaby" /></a> </p>
+-->
 
 <!-- - 🔭 I’m currently working on [a project](aproject.com) -->
 
@@ -32,13 +34,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://twitter.com/ezpzbaby01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezpzbaby01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bekzhan talgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekzhan talgat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codesandbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" /></a>
-<a href="https://instagram.com/ezpzbaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezpzbaby" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ezpzbaby/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezpzbaby" height="30" width="40" /></a>
+<a href="https://twitter.com/ezpzbaby01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezpzbaby01" height="30" width="40" /></a>
 <a href="https://www.behance.net/bekzhantalgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bekzhantalgat" height="30" width="40" /></a>
+<a href="https://www.artstation.com/ezpzbaby" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/artstation.svg" alt="ezpzbaby" height="30" width="40" /></a> 
+<a href="https://unsplash.com/@ezpzbaby" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/unsplash.svg" alt="ezpzbaby" height="30" width="40" /></a> 
+<!--
+<a href="https://dev.to/dev.to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codesandbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
