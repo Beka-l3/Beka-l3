@@ -45,22 +45,16 @@
   
   <a href="https://linkedin.com/in/bekzhan talgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekzhan talgat" height="30" width="40" />
   </a>
-
   <a href="https://www.instagram.com/ezpzbaby/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezpzbaby" height="30" width="40" />
   </a>
-
   <a href="https://twitter.com/ezpzbaby01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ezpzbaby01" height="30" width="40" />
   </a>
-
   <a href="https://www.behance.net/bekzhantalgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bekzhantalgat" height="30" width="40" />
   </a>
-
   <a href="https://www.artstation.com/ezpzbaby" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" alt="ezpzbaby" height="30" width="30" />
   </a> 
-
   <a href="https://unsplash.com/@ezpzbaby" target="_blank"><img align="center" src="https://library.stlawu.edu/sites/default/files/2020-05/unsplash-logo.png" alt="ezpzbaby" height="50" width="50" />
   </a> 
-
 </p>
 
 
