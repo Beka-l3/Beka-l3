@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [a project](aproject.com) -->
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** and **The Composable Architecture (TCA)**
 
 <!-- - 👯 I’m looking to collaborate on [a project](aproject.com) -->
 
