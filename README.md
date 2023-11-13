@@ -14,9 +14,10 @@
 
 <!-- - 🔭 I’m currently working on [a project](aproject.com) -->
 
-- 🌱 I’m currently learning **SwiftUI** and **The Composable Architecture (TCA)**
+<!-- - 🌱 I’m currently learning **SwiftUI** and **The Composable Architecture (TCA)** -->
+- 🌱 I’m currently interested in iOS Development
 
-- 💬 Ask me about **UIKit** **XCode**
+<!-- - 💬 Ask me about **UIKit** **XCode** -->
 
 - 📫 How to reach me **bekzhantalgat01@gmail.com**
 
