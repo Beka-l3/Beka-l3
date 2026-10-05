@@ -15,7 +15,7 @@
 <!-- - 🔭 I’m currently working on [a project](aproject.com) -->
 
 <!-- - 🌱 I’m currently learning **SwiftUI** and **The Composable Architecture (TCA)** -->
-- 🌱 I’m currently interested in iOS Development
+- 🌱 I’m currently an iOS Developer in Yandex Eats
 
 <!-- - 💬 Ask me about **UIKit** **XCode** -->
 
